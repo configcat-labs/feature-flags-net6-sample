@@ -10,8 +10,8 @@ The app is a success page that appears once the user has successfully registered
 Connect to the ConfigCat dashboard to enable/disable the feature flag.
 
 ## Learn more
-Read more about what's new in .NET6 [here](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6).
-Learn more about feature flags [here](https://configcat.com/featureflags/).
+- Read more about what's new in .NET6 [here](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6).
+- Learn more about feature flags [here](https://configcat.com/featureflags/).
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
 
